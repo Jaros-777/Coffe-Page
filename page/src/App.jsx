@@ -1,10 +1,9 @@
-import "./style.scss";
+import HomePage from "./HomePage";
 
 function App() {
   return (
     <>
-      <div id="container">
-      </div>
+     <HomePage></HomePage>
     </>
   );
 }
