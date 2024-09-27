@@ -1,15 +1,13 @@
-
 import NavBar from "./NavBar";
+import Welcome from "./Welcome";
+import BigText from "./BigText";
 
 function HomePage() {
   return (
     <>
-        <NavBar></NavBar>
-      <div className="h-[100%] w-[80%] bg-[#0c2f26]">
-        <div>
-            <p className="w-3">hej</p>
-        </div>
-      </div>
+      <NavBar></NavBar>
+      <Welcome></Welcome>
+      <BigText></BigText>
     </>
   );
 }
