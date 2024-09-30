@@ -1,0 +1,17 @@
+
+#belt-cotainer{
+    width: 80%;
+    height: 10vh;
+    background-color: grey;
+    margin-bottom: 10vh;
+    font-size: 3vh;
+    font-weight: bold;
+
+    .belt{
+        height: 8vh;
+        background-color: var(--bg-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

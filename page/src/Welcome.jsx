@@ -49,7 +49,7 @@ function Welcome() {
             <img src={IconHalfStar} alt="IconHalfStar" />
           </div>
         </div  >
-        <div className="welcome-btn-offer-right" style={{width:"40%", marginRight:"3vw", backgroundColor:"white"}}>
+        <div className="welcome-btn-offer-right" style={{width:"40%", marginRight:"3vw"}}>
           <div id="btn-left">
             <img src={IconCoffeToGo} alt="IconCoffeToGo" />
             <p style={{fontSize:"3vh"}}>TOP RATED COFFE</p>
