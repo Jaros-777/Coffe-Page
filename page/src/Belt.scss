@@ -1,17 +1,59 @@
 
 #belt-cotainer{
     width: 80%;
-    height: 10vh;
-    background-color: grey;
-    margin-bottom: 10vh;
+    height: 25vh;
+    background-color: white;
     font-size: 3vh;
     font-weight: bold;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
 
     .belt{
-        height: 8vh;
+        height: 9vh;
+        width: 100%;
         background-color: var(--bg-color);
         display: flex;
         justify-content: center;
         align-items: center;
+        overflow: clip;
+        transform: rotate(3deg);
+
+        img{
+            height: 30%;
+            margin: 0% 2% 0% 2%;
+
+            
+        }
+        .belt-coffe{
+            height: 45%;
+            margin: 0% 0.5% 0% 0%;
+        }
     }
+    .belt2{
+        height: 9vh;
+        width: 80%;
+        background-color: var(--bg-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: clip;
+        transform: rotate(-3deg);
+        position: absolute;
+        box-shadow: 0px 30px 60px -20px var(--bg-color);
+        
+
+        img{
+            height: 30%;
+            margin: 0% 2% 0% 2%;
+
+            
+        }
+        .belt-coffe{
+            height: 45%;
+            margin: 0% 0.5% 0% 0%;
+        }
+    }
+
+
 }
