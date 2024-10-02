@@ -17,7 +17,7 @@ function Welcome() {
       <div id="welcome-container">
         <div id="left-side">
           <img src={IconCoffeBeans} alt="IconCoffeBeans" />
-          <p>DISCOVER COFFE BLUES, STARTS HOUR BLUM TUBFILL JOURNAL HERL</p>
+          <p>DISCOVER THE RICH AND COMPLEX FLAVOURS OF COFFEE</p>
         </div>
         <div id="center">
           <p>LIFE BEGINS</p>
@@ -28,7 +28,7 @@ function Welcome() {
         </div>
         <div id="right-side">
           <img src={BeansCoffe} alt="BeansCoffe" />
-          <p>EXAPBADO YOUR COFFE JOURNAL AND EALRY MONTAGE</p>
+          <p>EXPAND YOUR PALATE AND DISCOVER THE NUANCED FLAVOURS OF COFFEE</p>
           <a href="#">MORE DETAILS</a>
           <div id="right-side-media">
             <button><img src={IconFacebook} alt="IconFacebook" /></button>
@@ -42,7 +42,7 @@ function Welcome() {
           <div id="btn-left">
             <img src={IconArrow} alt="IconArrow" />
             <p style={{fontSize:"3vh"}}>TOP RATED COFFE</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit..</p>
+            <p>This coffee is a fan favorite and always scores high marks.</p>
           </div>
           <div id="btn-right">
             <p>5.00</p>
@@ -52,8 +52,8 @@ function Welcome() {
         <div className="welcome-btn-offer-right" style={{width:"40%", marginRight:"3vw"}}>
           <div id="btn-left">
             <img src={IconCoffeToGo} alt="IconCoffeToGo" />
-            <p style={{fontSize:"3vh"}}>TOP RATED COFFE</p>
-            <p>Lorem ipsum dolor sit amet</p>
+            <p style={{fontSize:"2.2vh"}}>MILKSHAKE WITH CHOCOLATE</p>
+            <p>Creamy chocolate bliss.</p>
           </div>
           <div id="btn-right">
             <button id="cart-img">
