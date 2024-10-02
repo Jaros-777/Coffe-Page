@@ -10,61 +10,67 @@ function Belt() {
         <div className="belt">
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>MACCHIATO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>AMERICANO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>ESPRESSO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>LATTE</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>CAPPUCINO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>MACCHIATO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>AMERICANO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>ESPRESSO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>LATTE</p>
+            <img src={Star} alt="Star" />
+            <img className="belt-coffe" src={CoffeBeans} alt="Star" />
+            <p>CAPPUCINO</p>
             <img src={Star} alt="Star" />
         </div>
         <div className="belt2">
+        <img src={Star} alt="Star" />
+            <img className="belt-coffe" src={CoffeBeans} alt="Star" />
+            <p>LATTE</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>CAPPUCINO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>MACCHIATO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>AMERICANO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>ESPRESSO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>LATTE</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>CAPPUCINO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>MOCHANE</p>
+            <p>MACCHIATO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>DOPPIO</p>
+            <p>AMERICANO</p>
             <img src={Star} alt="Star" />
             <img className="belt-coffe" src={CoffeBeans} alt="Star" />
-            <p>CALAO</p>
+            <p>ESPRESSO</p>
             <img src={Star} alt="Star" />
         </div>
       </div>

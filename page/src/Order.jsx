@@ -1,6 +1,6 @@
 import "./Order.scss";
 import CoffeBeans from "./assets/coffe-beans-bg.png";
-import SurpriseCoffee from "./assets/surprise-coffee.png"
+import SurpriseCoffee from "./assets/surprise-coffee.png";
 
 function Order() {
   return (
@@ -9,10 +9,12 @@ function Order() {
         <div id="coffe-bg">
           <img src={CoffeBeans} alt="CoffeBeans" />
         </div>
-        <p id="order-coffe">ORDER NOW</p>
-        <div id="coffee-container">
-          <p>Enjoy your coffee</p>
-          <img src={SurpriseCoffee} alt="" />
+        <div id="order-coffe">
+          <p>ORDER NOW</p>
+          <div id="coffee-container">
+            <p>Enjoy your coffee</p>
+            <img src={SurpriseCoffee} alt="" />
+          </div>
         </div>
       </div>
     </>

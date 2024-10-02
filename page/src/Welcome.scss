@@ -5,6 +5,7 @@
     background-color: var(--bg-color);
     display: flex;
     padding-top: 10vh;
+    
 
     #left-side{
         width: 15%;
@@ -23,7 +24,10 @@
             padding: 1vw;
             margin-bottom: 3vh;
         }
+
+        
     }
+    
 
     #center{
         
@@ -118,6 +122,11 @@
         background-color: var(--yellow);
         height: 100%;
         border-radius: 20px;
+        transition: 1s ;
+        &:hover{
+            background-color: #ff8800;
+        }
+
 
         #btn-left{
             width: 60%;
@@ -158,6 +167,10 @@
         background-color: rgb(238, 238, 238);
         height: 100%;
         border-radius: 20px;
+        transition: 1s ;
+        &:hover{
+            background-color: rgb(207, 207, 207);
+        }
 
         #btn-left{
             width: 50%;
